@@ -1,0 +1,39 @@
+# IntelliJ IDEA #
+.idea/
+/.idea/
+*/.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse Project files
+.classpath
+.project
+/.settings/
+.settings/
+
+# Java class files
+*.class
+
+# Generated files
+*/bin/
+*/gen/
+*/out/
+
+### user ###
+target/
+/target/
+/src/logs/
+*.zip
+sdkTest.log
+
+
+#some local files
+*/.DS_Store
+.DS_Store
+gradlew
+gradlew.bat
+unused.txt
+————————————————
+版权声明：本文为CSDN博主「fen_fen」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/fen_fen/article/details/121332228
